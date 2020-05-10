@@ -1,8 +1,11 @@
-## 熊杰
+熊杰    
+<div style="float:right">
+    <img src="http://p.qlogo.cn/qqmail_head/cquyteYKXeB1uSp8T2zTRrGZ0S9xBqgou7fcpDPtWlchlQacS1gecKkvAibOabpjQOiaHqjkvVYxY/0"                      width="150">
+</div>
 
-出生年月: 1992年11月　　　　　　 　 邮箱: xj819539919@163.com
-
-电话: 132 5829 2813　　　　　　　　 政治面貌: 党员
+* 出生年月: 1992年11月　　　　　　 　 邮箱: xj819539919@163.com
+                                                          
+* 电话: 132 5829 2813　　　　　　　　 政治面貌: 党员
 
 ---
 
