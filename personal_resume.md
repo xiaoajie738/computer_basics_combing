@@ -1,7 +1,4 @@
-熊杰    
-<div style="float:right">
-    <img src="http://p.qlogo.cn/qqmail_head/cquyteYKXeB1uSp8T2zTRrGZ0S9xBqgou7fcpDPtWlchlQacS1gecKkvAibOabpjQOiaHqjkvVYxY/0"                      width="150">
-</div>
+熊杰 
 
 * 出生年月: 1992年11月　　　　　　 　 邮箱: xj819539919@163.com
                                                           
@@ -10,7 +7,7 @@
 ---
 
 ### 个人经历
-#### 2020/06-至今                   商汤科技有限公司                   后台开发工程师
+#### 2020/06-至今　　　　　　　　　　商汤科技有限公司                   后台开发工程师
 
 * 负责商汤科技视频智能分析平台大规模人脸人体实时聚类的核心工程化落地工作
 * 参与视频智能分析平台viper下沉国产化自研芯片的工程化落地工作
